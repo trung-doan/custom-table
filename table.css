@@ -1,0 +1,13 @@
+custom-table table,
+custom-table th,
+custom-table td {
+  border: 1px solid;
+}
+
+custom-table table {
+  border-collapse: collapse;
+}
+
+custom-table td {
+  padding: 5px;
+}
